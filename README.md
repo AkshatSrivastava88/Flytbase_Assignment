@@ -18,21 +18,8 @@ Allows filtering by conflict type and severity
 
 📁 Project Directory Structure
 
-Flytbase_Assignment/
-├── conflict_checker/        # Core conflict detection logic
-│   ├── spatial.py           # 3D distance-based detection
-│   ├── temporal.py          # Time-offset detection
-│   └── __init__.py
-├── data/                    # Input and output files
-│   ├── primary_mission.json
-│   ├── simulated_drones.json
-│   └── detected_conflicts.json
-├── visualizer.py            # 3D plotting logic (Matplotlib + Plotly)
-├── utils.py                 # Data loaders, filters, and JSON helpers
-├── main.py                  # Project entry point
-├── README.md                # This file
-├── reflection.md            # Design decisions and learnings
-└── visualizations/          # Auto-generated interactive plots
+![image](https://github.com/user-attachments/assets/84dbff6b-4f45-4d8d-a853-2063f0e39503)
+
 
 ▶️ How to Run the Project (Simplified)
 Setup Python Environment
