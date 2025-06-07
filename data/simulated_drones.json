@@ -1,0 +1,16 @@
+{
+  "drones": {
+    "drone_alpha": [
+      {"x": 0, "y": 100, "z": 25, "timestamp": 0},
+      {"x": 50, "y": 100, "z": 35, "timestamp": 5},
+      {"x": 100, "y": 50, "z": 45, "timestamp": 10},
+      {"x": 150, "y": 0, "z": 55, "timestamp": 15}
+    ],
+    "drone_beta": [
+      {"x": 0, "y": 0, "z": 20, "timestamp": 2},
+      {"x": 50, "y": 50, "z": 30, "timestamp": 5},
+      {"x": 100, "y": 100, "z": 40, "timestamp": 10},
+      {"x": 200, "y": 200, "z": 60, "timestamp": 15}
+    ]
+  }
+}

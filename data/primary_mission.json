@@ -1,0 +1,10 @@
+{
+  "drones": {
+    "primary_drone": [
+      {"x": 0, "y": 0, "z": 20, "timestamp": 0},
+      {"x": 25, "y": 45, "z": 32, "timestamp": 5},
+      {"x": 97, "y": 78, "z": 41, "timestamp": 10},
+      {"x": 135, "y": 148, "z": 64, "timestamp": 15}
+    ]
+  }
+}
